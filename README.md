@@ -1,2 +1,1 @@
-# PreCursoHenry
-Este es un repositorio prueba del modulo 2 del precurse de Henry
+Ester repositorio es una prueba de como puedo clonar un repositorio en linea y trasladarlo a mi repositorio local
